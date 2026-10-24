@@ -1,0 +1,10 @@
+{
+  "description": "Ajuda empresas a importar e analisar notas fiscais, consultar resultados e motivos de recusa e simular valores líquidos com um fluxo simples e otimizado para dispositivos móveis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
