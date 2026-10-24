@@ -1,0 +1,4 @@
+Tecnologias necessárias: 
+fastapi
+uvicorn
+pandas
